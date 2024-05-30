@@ -19,7 +19,3 @@ Cada pasta neste repositório corresponde a uma plataforma específica onde dese
 3. Siga as instruções de cada projeto para ver o código em ação.
 
 Sinta-se à vontade para explorar e aprender com o meu trabalho!
-
-## Contato
-
-Para mais informações, entre em contato comigo via [seu email] ou [seu LinkedIn].
