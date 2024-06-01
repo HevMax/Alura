@@ -5,8 +5,8 @@ Este repositório contém minhas atividades desenvolvidas em JavaScript, organiz
 ## Plataformas
 
 - **J5.JS Web Editor**
-  - [Atravessar](https://github.com/HevMax/Alura/tree/main/JavaScript/Atravessar)
-  - [Pong](https://github.com/HevMax/Alura/tree/main/JavaScript/Pong)
+  - [Atravessar](https://github.com/HevMax/Alura/tree/main/JavaScript/J5.JS/Atravessar)
+  - [Pong](https://github.com/HevMax/Alura/tree/main/JavaScript/J5.JS/Pong)
 
 ## Descrição
 
